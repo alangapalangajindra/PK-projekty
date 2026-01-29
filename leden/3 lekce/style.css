@@ -20,12 +20,11 @@ section {
     width: 200px;
     height: 200px;
     display: grid;
+    place-items: center;
 }
 .child {
     background: green;
     width: 50%;
     height: 50%;
-    display: grid;
-    place-self: center;
     place-content: center;
 }
