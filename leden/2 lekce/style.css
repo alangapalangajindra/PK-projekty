@@ -1,0 +1,22 @@
+div {
+    background: rgb(154, 205, 50);
+    color: antiquewhite;
+    border-radius: 0.5cm;
+    padding: 10px;
+    margin: 10px;
+}
+
+.info {
+    color: rgb(24, 119, 163);
+}
+.warning {
+    color: red;
+    font-weight: bold;
+}
+#warning {
+    color: red;
+    font-weight: bold;
+}
+p:last-child{
+    color: purple
+}
