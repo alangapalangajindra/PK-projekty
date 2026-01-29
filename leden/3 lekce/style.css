@@ -1,0 +1,31 @@
+.femboy {
+    background: pink;
+    border-radius: 0.67cm;
+    width: 400px;
+    height: 400px;
+    display: grid;
+    place-items: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+section {
+    margin: 16px;
+    padding: 16px;
+}
+.parent {
+    background: peru;
+    width: 200px;
+    height: 200px;
+    display: grid;
+}
+.child {
+    background: green;
+    width: 50%;
+    height: 50%;
+    display: grid;
+    place-self: center;
+    place-content: center;
+}
