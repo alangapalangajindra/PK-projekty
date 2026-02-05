@@ -28,3 +28,37 @@ section {
     height: 50%;
     place-content: center;
 }
+.panel {
+    background: khaki;
+    width: 200px;
+    height: 200px;
+    display: grid;
+    place-items: center;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(20, 168, 20);
+}
+.mix {
+    background: khaki;
+    width: 250px;
+    height: 200px;
+    display: grid;
+    place-items: center;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(20, 168, 20);
+    border-left-style: dashed;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-top-style: dashed;
+    border-top-color: blueviolet;
+    border-bottom-color: blueviolet;
+}
+.card {
+    background: khaki;
+    width: 250px;
+    height: 200px;
+    display: grid;
+    place-items: center;
+    border: 5px solid brown;
+}
