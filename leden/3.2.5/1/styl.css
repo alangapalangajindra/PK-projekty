@@ -7,8 +7,13 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     background-attachment: fixed;
-
 }
 .wrap {
     margin: 6px;
+}
+.Scrolltext {
+    background: rgba(118, 113, 136, 0.3);
+    padding: 16px;
+    border-radius: 12px;
+    max-width: 320px;
 }
