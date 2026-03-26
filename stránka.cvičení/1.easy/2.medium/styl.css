@@ -1,0 +1,15 @@
+body {
+    place-items: center;
+    display: grid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mnau {
+    color: darkgreen;
+}
+.mnauu {
+    color: rgb(90, 8, 167);
+    place-items: center;
+}
+.mnauuu {
+    color: red;
+}

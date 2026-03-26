@@ -1,0 +1,50 @@
+body {
+    background: rgb(235, 240, 187);
+    display: grid;
+    font-family: fantasy;
+    margin: 20px;
+    padding: 20px;
+}
+.mnau {
+    color: darkgreen;
+}
+.mnauu {
+    color: rgb(90, 8, 167);
+    place-items: center;
+}
+.mnauuu {
+    color: red;
+}
+.jh {
+    font-size: 40px;
+    background: rgb(224, 224, 109);
+    border-radius: 100%;
+    border-color: rgb(115, 141, 0);
+    border-width: 5px;
+    border-style: solid;
+    width: 150px;
+    height: 190px;
+    font-display: center;
+    display: grid;
+    place-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+.hlsekce {
+    place-items: center;
+    background: rgb(228, 154, 85);
+    border-radius: 70px;
+    height: 100%;
+    width: 100%;
+    border-color: rgb(115, 141, 0);
+    border-width: 5px;
+    border-style: solid;
+}
+.bum {
+    background: rgb(224, 224, 109);
+    place-items: center;
+    font-display: center;
+    border-radius: 20px;
+    height: 100px;
+    width: 300px;
+}

@@ -1,0 +1,46 @@
+body {
+    place-items: center;
+    display: grid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(168, 212, 179);
+}
+.mnau {
+    color: darkgreen;
+}
+.mnauu {
+    color: rgb(90, 8, 167);
+    place-items: center;
+}
+.mnauuu {
+    color: rgb(109, 0, 0);
+}
+.prd {
+    
+}
+.sekce {
+    background: rgb(200, 223, 200);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    width: 90%;
+    text-align: center;
+    box-shadow: 10px 8px rgb(190, 219, 165);
+}
+.sekcee {
+    text-align: center;
+    background: rgb(93, 151, 206);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    width: 75%;
+    box-shadow: 10px 8px rgb(128, 186, 212);
+}
+.sekceee {
+    text-align: center;
+    background: rgb(189, 124, 154);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    width: 75%;
+    box-shadow: 10px 8px rgb(199, 150, 199);
+}
