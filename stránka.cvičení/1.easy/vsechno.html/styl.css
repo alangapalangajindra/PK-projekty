@@ -1,0 +1,14 @@
+body {
+    display: grid;
+    margin: 10px;
+    padding: 10px;
+}
+.vsechno {
+    display: grid;
+    place-items: center;
+    font-display: center;
+    background: gainsboro;
+    height: 150px;
+    width: 150px;
+    align-self: center;
+}
