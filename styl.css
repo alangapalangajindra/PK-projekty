@@ -12,3 +12,12 @@
     border: 3px solid green;
     margin: 40px;
 }
+.vsechno {
+    display: grid;
+    place-items: center;
+    font-display: center;
+    background: gainsboro;
+    height: 150px;
+    width: 150px;
+    align-self: center;
+}
