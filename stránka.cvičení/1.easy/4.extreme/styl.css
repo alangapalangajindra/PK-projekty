@@ -9,11 +9,11 @@ body {
     color: darkgreen;
 }
 .mnauu {
-    color: rgb(90, 8, 167);
+    color: rgb(0, 100, 0);
     place-items: center;
 }
 .mnauuu {
-    color: red;
+    color: rgb(221, 240, 48);
 }
 .jh {
     font-size: 40px;
@@ -22,9 +22,8 @@ body {
     border-color: rgb(115, 141, 0);
     border-width: 5px;
     border-style: solid;
-    width: 150px;
+    width: 190px;
     height: 190px;
-    font-display: center;
     display: grid;
     place-items: center;
     margin: 10px;
@@ -33,12 +32,13 @@ body {
 .hlsekce {
     place-items: center;
     background: rgb(228, 154, 85);
-    border-radius: 70px;
+    border-radius: 180px;
     height: 100%;
     width: 100%;
     border-color: rgb(115, 141, 0);
     border-width: 5px;
     border-style: solid;
+    box-shadow: 10px 8px rgb(138, 177, 30);
 }
 .bum {
     background: rgb(224, 224, 109);
@@ -47,4 +47,18 @@ body {
     border-radius: 20px;
     height: 100px;
     width: 300px;
+    border-color: rgb(115, 141, 0);
+    border-width: 4px;
+    border-style: solid;
+}
+
+.stisk {
+    background: rgb(224, 224, 109);
+    height: 40px;
+    width: 200px;
+    display: flex;
+    place-items: center;
+    border-color: rgb(115, 141, 0);
+    border-width: 3px;
+    border-style: solid;
 }
