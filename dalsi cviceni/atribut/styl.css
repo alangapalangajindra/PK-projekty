@@ -1,0 +1,33 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+.loginform {
+    padding: 20px;
+    box-shadow: 0 10px 24px rgb(157, 209, 233);
+}
+input {
+    display: block;
+    margin: 8px;
+    box-sizing: border-box;
+}
+input[type="email"], 
+input[type="password"] {
+    width: 240px;
+    height: 30px;
+    padding: 5px 12px;
+    border: 1px solid rgb(44, 119, 163);
+}
+input[type="submit"] {
+    width: 240px;
+    height: 30px;
+    padding: 5px 12px;
+    border: 1px solid rgb(44, 105, 163);
+    color: rgb(44, 44, 235);
+    background-color: rgb(108, 187, 233);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
